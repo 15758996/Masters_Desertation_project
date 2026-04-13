@@ -1,0 +1,15 @@
+Disease,Baseline_AUROC,QA_AUROC,Delta
+Atelectasis,0.6714,0.6714,0.0
+Cardiomegaly,0.6954,0.6954,0.0
+Effusion,0.7052,0.7052,0.0
+Infiltration,0.6437,0.6437,0.0
+Mass,0.573,0.573,0.0
+Nodule,0.5019,0.5019,0.0
+Pneumonia,0.6391,0.6391,0.0
+Pneumothorax,0.7623,0.7623,0.0
+Consolidation,0.7064,0.7064,0.0
+Edema,0.8248,0.8248,0.0
+Emphysema,0.3726,0.3726,0.0
+Fibrosis,0.6314,0.6314,0.0
+Pleural_Thickening,0.5182,0.5182,0.0
+Hernia,0.7524,0.7524,0.0

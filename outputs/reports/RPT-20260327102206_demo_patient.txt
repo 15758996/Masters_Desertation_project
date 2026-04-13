@@ -1,0 +1,48 @@
+=================================================================
+  AUTOMATED CHEST X-RAY ANALYSIS REPORT
+  (AI Decision Support — Research Prototype)
+=================================================================
+  Report ID  : RPT-20260327102206
+  Generated  : 2026-03-27 10:22:06
+  Image File : demo_patient.png
+  QA Score   : 91.2/100  (ACCEPTABLE)
+-----------------------------------------------------------------
+  FINDINGS:
+
+  [URGENT  ] ★★★ Pneumothorax              (p=0.910)
+             air in the pleural space — urgent evaluation advised
+
+  [PRIORITY] ★★★ Pneumonia                 (p=0.740)
+             consolidation consistent with infection
+
+  [PRIORITY] ★★★ Effusion                  (p=0.732)
+             accumulation of fluid in the pleural space
+
+  [PRIORITY] ★★★ Edema                     (p=0.708)
+             bilateral opacities suggesting pulmonary oedema
+
+  [PRIORITY] ★★  Consolidation             (p=0.601)
+             airspace opacification — infection, haemorrhage or oedema
+
+  [ROUTINE ] ★★★ Fibrosis                  (p=0.970)
+             reticular opacity suggesting interstitial fibrosis
+
+  [ROUTINE ] ★★★ Cardiomegaly              (p=0.951)
+             enlargement of the cardiac silhouette
+
+  [ROUTINE ] ★★★ Pleural_Thickening        (p=0.832)
+             thickening of the pleural lining
+
+  [ROUTINE ] ★★  Infiltration              (p=0.599)
+             abnormal material filling the airspaces
+
+-----------------------------------------------------------------
+  IMPRESSION:
+  URGENT: Pneumothorax — immediate review. Priority: Pneumonia, Effusion, Edema, Consolidation — prompt correlation. Routine: Fibrosis, Cardiomegaly, Pleural_Thickening, Infiltration.
+
+  RECOMMENDATION:
+  Immediate radiologist verification required.
+
+-----------------------------------------------------------------
+  DISCLAIMER: AI-assisted output. NOT a substitute for radiologist interpretation. All findings must be verified by a qualified clinician.
+=================================================================

@@ -1,0 +1,6 @@
+{
+  "baseline_macro_auroc": 0.6427,
+  "qa_aware_macro_auroc": 0.6427,
+  "delta": 0.0,
+  "qa_rejection_rate_pct": 0.0
+}

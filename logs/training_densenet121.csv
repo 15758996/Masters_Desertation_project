@@ -1,0 +1,2 @@
+epoch,train_loss,val_loss,train_auroc,val_auroc,lr,time_s
+1,1.5813,1.1984,0.5804,0.6233,0.0001,334.6
